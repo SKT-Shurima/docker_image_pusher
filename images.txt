@@ -1,5 +1,5 @@
 #支持指定架构
---platform=linux/arm64
+#--platform=linux/arm64
 nginx:latest
 redis:5.0.7
 mongo:latest
